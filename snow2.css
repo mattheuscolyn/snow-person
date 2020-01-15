@@ -1,0 +1,22 @@
+body {
+  background-color: blue;
+}
+h1, h2, p, li {
+  color: white;
+}
+circle {
+  fill: white;
+}
+circle#button {
+  fill: black;
+}
+text {
+  fill: white;
+  font-family: cursive;
+}
+path {
+  fill: orange
+}
+g:hover {
+  fill: blue
+}
